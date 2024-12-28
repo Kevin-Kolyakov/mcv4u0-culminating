@@ -2,6 +2,7 @@ import streamlit as st
 import os
 from pathlib import Path
 import subprocess
+from manim import *
 
 #subprocess.run(["echo", "helloworld"], check=True, capture_output=True)
 #subprocess.run(["ls", "-l"], check=True, capture_output=True)
